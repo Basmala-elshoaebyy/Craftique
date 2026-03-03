@@ -5,8 +5,8 @@ Instructors (like candle makers, accessory designers, and other craft artists) c
 Learners can access tutorials, develop their skills, share their work, and even market themselves.
 In short, it’s a creative skill marketplace and community that connects makers with learners
 # Team Members 
-Basmala ahmed mohamed elshoaeby
-Rahma Mahdy 
-Semon Samir
-Habiba Amr
-Mourine Nabil
+. Basmala ahmed mohamed elshoaeby
+. Rahma Mahdy 
+. Semon Samir
+. Habiba Amr
+. Mourine Nabil
