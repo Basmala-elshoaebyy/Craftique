@@ -9,3 +9,5 @@ In short, it’s a creative skill marketplace and community that connects makers
 . Semon Samir
 . Habiba Amr
 . Mourine Nabil
+----
+[Figma](https://www.figma.com/design/2EPh0IWgO9fYHgW3fudZVh/Craftique-project?node-id=1-2&t=NjMphJ3qpaP8gkv9-1)
