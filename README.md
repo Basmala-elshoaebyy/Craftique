@@ -18,6 +18,11 @@ Explore the complete UI design and interactive prototype:
 🔗 **Figma:** [https://www.figma.com/design/2EPh0IWgO9fYHgW3fudZVh/Craftique-project?node-id=1-2&t=NjMphJ3qpaP8gkv9-1]
 
 ---
+## Google drive 
+
+🔗 **Drive:** [https://drive.google.com/drive/folders/1bcHYqTmgpwT-mUFyyU4FzcscIEeQpLpY?usp=sharing]
+
+---
 
 #  Project Overview
 
