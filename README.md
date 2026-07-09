@@ -124,18 +124,6 @@ The complete design process and research documentation are available in the Beha
 - **Habiba Amr**
 - **Mourine Nabil**
 
----
 
-#  Project Preview
 
-> Add screenshots or GIFs here.
-
-Examples:
-
-- Home Page
-- Categories
-- Product Details
-- Shopping Cart
-- Checkout
-- Profile
 
